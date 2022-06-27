@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "creategaslamp:block/brass_cogwheel",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "creategaslamp:block/brass_cogwheel"
+    },
+    "axis=z": {
+      "model": "creategaslamp:block/brass_cogwheel",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "creategaslamp",
   "version": "${version}",
-  "name": "Example Mod",
+  "name": "Create: Gaslamp Fantasy",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "Aury System"
   ],
   "contact": {
     "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
   },
   "license": "CC0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/creategaslamp/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.modid.ExampleMod"
+      "gay.aurum.creategaslamp.CreateGasLamp"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "creategaslamp.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",

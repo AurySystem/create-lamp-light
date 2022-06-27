@@ -1,0 +1,6 @@
+{
+  "parent": "create:block/cogwheel",
+  "textures": {
+    "1_2": "creategaslamp:block/brass_cogwheel"
+  }
+}
