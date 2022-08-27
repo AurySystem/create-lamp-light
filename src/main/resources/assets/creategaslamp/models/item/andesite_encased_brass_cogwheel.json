@@ -1,0 +1,6 @@
+{
+  "parent": "create:item/andesite_encased_cogwheel",
+  "textures": {
+    "1_2": "creategaslamp:block/brass_cogwheel"
+  }
+}

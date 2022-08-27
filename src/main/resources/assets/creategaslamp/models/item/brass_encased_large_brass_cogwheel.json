@@ -1,0 +1,6 @@
+{
+  "parent": "create:item/brass_encased_large_cogwheel",
+  "textures": {
+    "4": "creategaslamp:block/large_brass_cogwheel"
+  }
+}
